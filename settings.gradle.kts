@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "National Research Mordovia State University"
+rootProject.name = "National Research Mordovia State University 1"
 include(":app")
  
